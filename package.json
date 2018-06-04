@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "homepage": "https://Balance8.github.io/project-4-assessment",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
@@ -16,5 +15,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  }
+  },
+  "homepage": "https://Balance8.github.io/project-4-assessment"
 }
